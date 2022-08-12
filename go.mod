@@ -1,3 +1,3 @@
-module github.com/dciobanu/genesys-vm
+module github.com/dciobanu/sample-gvm-go
 
 go 1.18
